@@ -1,5 +1,6 @@
-# Three.js Starter
-Courtesy of Bruno Simon of https://threejs-journey.xyz/
+# Three.js Portfolio Website
+
+Visit https://zayniddin.algol.uz/
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
@@ -15,3 +16,4 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+Inspired by Courtesy of Bruno Simon of https://threejs-journey.xyz/
