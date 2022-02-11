@@ -1,4 +1,4 @@
-# Three.js Portfolio Website
+# Portfolio Website with Three.js 
 
 Visit https://zayniddin.algol.uz/
 
